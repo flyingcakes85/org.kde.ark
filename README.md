@@ -1,7 +1,7 @@
 # Ark (org.kde.ark)
 
-[Homepage](https://kde.org/applications/en/utilities/org.kde.ark) |
-[User documentation](https://userbase.kde.org/Ark) |
+[Homepage](https://kde.org/applications/utilities/ark/) |
+[User documentation](https://docs.kde.org/stable5/en/kdeutils/ark/index.html) |
 [Sources](https://invent.kde.org/utilities/ark)
 
 ## Reporting bugs
