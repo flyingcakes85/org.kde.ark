@@ -21,10 +21,8 @@ classic non-Flatpak version of this application.**
 
 ## Permissions rationale
 
-This applications requests the following permissions for:
+This application requests the following restricted permissions:
 
-- X11 support: `--share=ipc`, `--socket=x11`
-- Wayland & OpenGL support: `--socket=wayland`, `--device=dri`
 - Required for accessibility: `--talk-name=org.a11y.Bus`
 - Required to extract an archive to a user chosen path: `--filesystem=host`.
   This could potentially be removed in favor of a portal based approach but
