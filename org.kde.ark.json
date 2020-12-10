@@ -59,8 +59,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://www.libarchive.org/downloads/libarchive-3.4.3.tar.xz",
-                    "sha256": "0bfc3fd40491768a88af8d9b86bf04a9e95b6d41a94f9292dbc0ec342288c05f"
+                    "url": "https://www.libarchive.org/downloads/libarchive-3.5.0.tar.xz",
+                    "sha256": "245bff9d17e78986bf9716eb887e3bc731d7fd8e5d04efebb8bb1e1c39a3a354"
                 }
             ]
         },
@@ -70,8 +70,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://libzip.org/download/libzip-1.6.1.tar.xz",
-                    "sha256": "705dac7a671b3f440181481e607b0908129a9cf1ddfcba75d66436c0e7d33641"
+                    "url": "https://libzip.org/download/libzip-1.7.3.tar.xz",
+                    "sha256": "a60473ffdb7b4260c08bfa19c2ccea0438edac11193c3afbbb1f17fbcf6c6132"
                 }
             ]
         },
