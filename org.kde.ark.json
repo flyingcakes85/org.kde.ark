@@ -199,8 +199,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/20.12.0/src/ark-20.12.0.tar.xz",
-                    "sha256": "b7bc762eca2f2cd9dc13ca583291133cec3c4f08ab72779a59b54c5d6e4e45b7"
+                    "url": "https://download.kde.org/stable/release-service/20.12.1/src/ark-20.12.1.tar.xz",
+                    "sha256": "357366960c4b1621ccc943465800938da3a8711985ca3fe1109151c8b952eaa3"
                 }
             ]
         }
