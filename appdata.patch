@@ -1,0 +1,22 @@
+commit 524c5c30f559f5198c28d9073d07b67fce076ab1
+Author: Albert Astals Cid <aacid@kde.org>
+Date:   Sat Jun 19 14:09:25 2021 +0200
+
+    Remove the width/height from screenshot
+    
+    We update screenshots on the website from time to time so if we hardcode
+    it, things will break
+
+diff --git a/app/org.kde.ark.appdata.xml b/app/org.kde.ark.appdata.xml
+index 3fc7e542..25515b4c 100644
+--- a/app/org.kde.ark.appdata.xml
++++ b/app/org.kde.ark.appdata.xml
+@@ -336,7 +336,7 @@
+       <caption xml:lang="x-test">xxManaging archives with Arkxx</caption>
+       <caption xml:lang="zh-CN">使用 Ark 来管理压缩包文件</caption>
+       <caption xml:lang="zh-TW">使用 Ark 管理封存檔</caption>
+-      <image width="688" height="553">https://cdn.kde.org/screenshots/ark/ark.png</image>
++      <image>https://cdn.kde.org/screenshots/ark/ark.png</image>
+     </screenshot>
+   </screenshots>
+   <url type="homepage">https://apps.kde.org/ark</url>
