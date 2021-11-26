@@ -1,7 +1,7 @@
 {
     "id": "org.kde.ark",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.15",
+    "runtime-version": "5.15-21.08",
     "sdk": "org.kde.Sdk",
     "command": "ark",
     "rename-icon": "ark",
@@ -115,8 +115,8 @@
          "sources": [
             {
                "type": "archive",
-               "url": "https://github.com/gnustep/tools-make/archive/make-2_8_0.tar.gz",
-               "sha256": "a9df9b0d756a93306a8e0cb9e127f5688a459dad3d356cd760565833da605825"
+               "url": "https://github.com/gnustep/tools-make/archive/make-2_9_0.tar.gz",
+               "sha256": "f7c69bea7f26ca5d4ce6ad82fbe94d2405cf238d652ea608fe387a70a5e0232c"
             }
          ]
         },
@@ -131,8 +131,8 @@
          "sources": [
             {
                "type": "archive",
-               "url": "https://github.com/gnustep/libs-base/releases/download/base-1_27_0/gnustep-base-1.27.0.tar.gz",
-               "sha256": "8803fa1fdf23f90264a81ad2d9fbe97ba66d6e313e396a28fd7c10d2caceb283"
+               "url": "https://github.com/gnustep/libs-base/releases/download/base-1_28_0/gnustep-base-1.28.0.tar.gz",
+               "sha256": "c7d7c6e64ac5f5d0a4d5c4369170fc24ed503209e91935eb0e2979d1601039ed"
             }
          ]
         },
@@ -161,8 +161,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://sourceforge.net/projects/p7zip/files/p7zip/16.02/p7zip_16.02_src_all.tar.bz2",
-                    "sha256": "5eb20ac0e2944f6cb9c2d51dd6c4518941c185347d4089ea89087ffdd6e2341f"
+                    "url": "https://github.com/jinfeihan57/p7zip/archive/v17.04/p7zip-v17.04.tar.gz",
+                    "sha256": "ea029a2e21d2d6ad0a156f6679bd66836204aa78148a4c5e498fe682e77127ef"
                 },
                 {
                     "type": "shell",
@@ -172,24 +172,11 @@
                 },
                 {
                     "type": "patch",
-                    "path" : "p7zip-gcc10.patch"
-                },
-                {
-                    "type": "patch",
                     "path" : "p7zip-norar.patch"
                 },
                 {
                     "type": "patch",
-                    "path" : "p7zip-CVE-2016-9296.patch"
-                },                {
-                    "type": "patch",
-                    "path" : "p7zip-CVE-2017-17969.patch"
-                },                {
-                    "type": "patch",
-                    "path" : "p7zip-CVE-2018-5996.patch"
-                },                {
-                    "type": "patch",
-                    "path" : "p7zip-CVE-2018-10115.patch"
+                    "path" : "p7zip-archlinux-reverts_issue_112.patch"
                 }
             ]
         },
