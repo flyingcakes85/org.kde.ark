@@ -32,8 +32,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/facebook/zstd/releases/download/v1.4.5/zstd-1.4.5.tar.gz",
-                    "sha256": "98e91c7c6bf162bf90e4e70fdbc41a8188b9fa8de5ad840c401198014406ce9e"
+                    "url": "https://github.com/facebook/zstd/releases/download/v1.5.0/zstd-1.5.0.tar.gz",
+                    "sha256": "5194fbfa781fcf45b98c5e849651aa7b3b0a008c6b72d4a0db760f3002291e94"
                 }
             ]
         },
@@ -48,8 +48,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/lz4/lz4/archive/v1.9.2.tar.gz",
-                    "sha256": "658ba6191fa44c92280d4aa2c271b0f4fbc0e34d249578dd05e50e76d0e5efcc"
+                    "url": "https://github.com/lz4/lz4/archive/v1.9.3.tar.gz",
+                    "sha256": "030644df4611007ff7dc962d981f390361e6c97a34e5cbc393ddfbe019ffe2c1"
                 }
             ]
         },
@@ -59,8 +59,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://www.libarchive.org/downloads/libarchive-3.5.0.tar.xz",
-                    "sha256": "245bff9d17e78986bf9716eb887e3bc731d7fd8e5d04efebb8bb1e1c39a3a354"
+                    "url": "https://www.libarchive.org/downloads/libarchive-3.5.2.tar.xz",
+                    "sha256": "f0b19ff39c3c9a5898a219497ababbadab99d8178acc980155c7e1271089b5a0"
                 }
             ]
         },
@@ -70,8 +70,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://libzip.org/download/libzip-1.7.3.tar.xz",
-                    "sha256": "a60473ffdb7b4260c08bfa19c2ccea0438edac11193c3afbbb1f17fbcf6c6132"
+                    "url": "https://libzip.org/download/libzip-1.8.0.tar.xz",
+                    "sha256": "f0763bda24ba947e80430be787c4b068d8b6aa6027a26a19923f0acfa3dac97e"
                 }
             ]
         },
