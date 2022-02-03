@@ -186,8 +186,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/21.12.1/src/ark-21.12.1.tar.xz",
-                    "sha256": "a07654af5a3d7714a485027765ea29a94f62b3aef670cb78532a1561afb978d6"
+                    "url": "https://download.kde.org/stable/release-service/21.12.2/src/ark-21.12.2.tar.xz",
+                    "sha256": "206111ac7a39e454fdbb6fd5dd286ca3b93a49ee4b9808b8af05518ab6a705bc"
                 }
             ]
         }
