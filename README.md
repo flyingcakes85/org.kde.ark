@@ -23,7 +23,6 @@ classic non-Flatpak version of this application.**
 
 This application requests the following restricted permissions:
 
-- Required for accessibility: `--talk-name=org.a11y.Bus`
 - Required to extract an archive to a user chosen path: `--filesystem=host`.
   This could potentially be removed in favor of a portal based approach but
   this currently requires development work.

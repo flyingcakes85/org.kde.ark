@@ -10,8 +10,7 @@
         "--filesystem=host",
         "--share=ipc",
         "--socket=wayland",
-        "--socket=x11",
-        "--talk-name=org.a11y.Bus"
+        "--socket=x11"
     ],
     "cleanup": [
         "*.a",
